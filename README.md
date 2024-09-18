@@ -1,19 +1,21 @@
-### Olá, tudo bem? 👋
+### Hi Good? 👋 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luccasfes&layout=compact&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccasfes&layout=compact&theme=onedark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luccasfes&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccasfes&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
-**luccasfes/luccasfes** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
+**luccasfes/luccasfes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Aqui estão algumas ideias para começar:
+Here are some ideas to get you started:
 
-- 🔭 Atualmente estou trabalhando em projetos de desenvolvimento de software, focado principalmente em Java e desenvolvimento web.
-- 🌱 Estou aprendendo mais sobre frameworks modernos e novas tecnologias em desenvolvimento.
-- 👯 Estou procurando colaborar em projetos que envolvem desenvolvimento de software e design de sistemas.
-- 🤔 Estou procurando ajuda com a criação de projetos e desafios de programação.
-- 💬 Pergunte-me sobre desenvolvimento de software, Java, ou design de sistemas.
-- 📫 Como me encontrar: Você pode me contatar pelo [LinkedIn](https://www.linkedin.com/in/luccasfes) ou [Twitter](https://twitter.com/luccasfes).
-- 😄 Pronomes: Ele/dele
-- ⚡ Fato engraçado: Adoro criar projetos pessoais e experimentar novas tecnologias.
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
+
+quero atualizar
