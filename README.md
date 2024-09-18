@@ -1,8 +1,17 @@
 ### Hi Good? 👋 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luccasfes&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/luccasfes">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=luccasfes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccasfes&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/luccasfes">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasfes&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+
 <!--
 **luccasfes/luccasfes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +26,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
