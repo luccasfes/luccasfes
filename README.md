@@ -2,7 +2,7 @@
 
 ### Hi Good? 👋 
 
-- :man: Desenvolvedor front end
+- :man: Desenvolvedor Web
 - :computer: **PHP** [Laravel] | **JavaScript** [Node, JQuery, React] | **Java** | **C** | **SQL** | **GIT**
 
 - 📚 Studying:
