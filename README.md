@@ -3,7 +3,7 @@
 ### Hi Good? 👋 
 
 - :man: Desenvolvedor Web
-- :computer: **PHP** [Laravel] | **JavaScript** [Node, JQuery, React] | **Java** | **C** | **SQL** | **GIT**
+- :computer: **PHP** | **JavaScript** [Node, JQuery, React] | **Java** | **C** | **SQL** | **GIT**
 
 - 📚 Studying:
   - ReactJS
