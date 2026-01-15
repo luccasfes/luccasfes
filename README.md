@@ -39,14 +39,19 @@ Boas-vindas ao meu espaço no GitHub! Sou um desenvolvedor web focado em criar s
 ## 📈 Estatísticas & Contribuições
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=luccasfes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd" alt="Estatísticas do GitHub de Lucas" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=luccasfes&theme=tokyonight&hide_border=true&background=0D1117&fire=70a5fd&ring=70a5fd&currStreakLabel=70a5fd" alt="Streak Stats" />
+  <img width="100%" 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luccasfes&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasfes&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd" alt="Linguagens mais usadas" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=luccasfes&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=70a5fd&line=70a5fd&point=70a5fd" alt="Gráfico de atividade do Lucas" />
+  <img width="49%" 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luccasfes&theme=tokyonight" />
+  <img width="49%" 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luccasfes&theme=tokyonight" />
 </p>
+
+
+
 
 ---
 
